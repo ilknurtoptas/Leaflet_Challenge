@@ -1,13 +1,13 @@
 # Leaflet_Challenge
 
-## Summary of the Earthquake Visualization Project
-# Background
+# Summary of the Earthquake Visualization Project
+## Background
 The United States Geological Survey (USGS) plays a crucial role in providing scientific data related to natural hazards, ecosystem health, environmental conditions, and the effects of climate and land-use changes. While the USGS collects vast amounts of global data daily, it lacks effective visualization tools to present this information meaningfully. To address this gap, the goal of this project was to develop an interactive visualization of earthquake data to help educate the public and government organizations about seismic activities, potentially aiding in securing additional funding for USGS initiatives.
 
-# Project Objective
+## Project Objective
 The primary objective was to create a dynamic, user-friendly map that visualizes real-time earthquake data provided by the USGS through their GeoJSON feed. This visualization aims to enhance data comprehension and provide an intuitive platform for exploring earthquake patterns.
 
-# Implementation Steps
+## Implementation Steps
 *1.Data Acquisition:*
 Accessed the USGS GeoJSON feed, specifically the dataset displaying all earthquakes from the past seven days.
 Retrieved the JSON data via the feed's URL for integration into the visualization.
